@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Auto Join party
+Automatically joins given party
